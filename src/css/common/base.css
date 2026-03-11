@@ -1,0 +1,40 @@
+body {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Gilroy', sans-serif;
+  letter-spacing: -0.02em;
+  color: #0c0c0c;
+}
+
+h1,
+h2 {
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 1;
+}
+
+p {
+  line-height: 1.29;
+  color: rgba(12, 12, 12, 0.7);
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  h2 {
+    font-size: 48px;
+    line-height: 0.92;
+  }
+
+  p {
+    line-height: 1.25;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+}
