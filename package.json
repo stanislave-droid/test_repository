@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/test_repository/",
+    "build": "vite build --base=/Watch-Charm-with-bundle/",
     "preview": "vite preview"
   },
   "devDependencies": {
